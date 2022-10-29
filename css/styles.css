@@ -204,9 +204,9 @@ margin: 5rem;
     margin: auto;
     height: auto;
     overflow: hidden;
-    width: 65%;
+    max-width: 40%;
     max-height: 80rem;
-    max-width: 80rem;
+    
     
     
   }
@@ -219,6 +219,8 @@ margin: 5rem;
     background-color: hsl(133, 25%, 22%);
     padding: 8px 12px;  
     text-align: center;
+    max-height: 2rem;
+    
     
     
   }
